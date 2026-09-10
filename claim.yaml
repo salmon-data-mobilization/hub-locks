@@ -1,5 +1,6 @@
 id: B-90
 agent: a-73a89f06ddb31ec7
-action: beat
+action: handoff
 lease_until: 2026-09-11T01:47:13Z
 attempt: 5
+branch: agent/B-90/a-73a89f06ddb31ec7
