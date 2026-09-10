@@ -1,5 +1,6 @@
 id: B-49
 agent: a-a7bf88a77f89e8db
-action: beat
+action: handoff
 lease_until: 2026-09-11T01:56:26Z
 attempt: 4
+branch: agent/B-49/a-a7bf88a77f89e8db
