@@ -1,5 +1,6 @@
 id: B-95
 agent: a-d97d6a433a185d0c
-action: beat
+action: handoff
 lease_until: 2026-09-11T02:05:16Z
 attempt: 6
+branch: agent/B-95/a-d97d6a433a185d0c
