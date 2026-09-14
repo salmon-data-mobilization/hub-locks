@@ -1,5 +1,6 @@
 id: B-106
 agent: a-65bf3fd54d6198d2
-action: beat
+action: handoff
 lease_until: 2026-09-15T03:38:38Z
 attempt: 3
+branch: agent/B-106/a-65bf3fd54d6198d2
