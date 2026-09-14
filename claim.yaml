@@ -1,5 +1,6 @@
 id: B-146
 agent: a-037543610cf047ef
-action: beat
+action: handoff
 lease_until: 2026-09-15T03:42:50Z
 attempt: 4
+branch: agent/B-146/a-037543610cf047ef
