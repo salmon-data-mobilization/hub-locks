@@ -1,5 +1,6 @@
 id: B-112
 agent: a-677b1b31606aaa8c
-action: beat
+action: handoff
 lease_until: 2026-09-15T03:45:46Z
 attempt: 5
+branch: agent/B-112/a-677b1b31606aaa8c
