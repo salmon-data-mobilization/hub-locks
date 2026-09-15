@@ -1,5 +1,6 @@
 id: B-115
 agent: a-147884b197789962
-action: beat
+action: handoff
 lease_until: 2026-09-15T04:03:09Z
 attempt: 4
+branch: agent/B-115/a-147884b197789962
