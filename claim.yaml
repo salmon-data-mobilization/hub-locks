@@ -1,5 +1,6 @@
 id: B-143
 agent: a-5204003c5ea6830d
-action: beat
+action: handoff
 lease_until: 2026-09-15T06:15:03Z
 attempt: 4
+branch: agent/B-143/a-5204003c5ea6830d
