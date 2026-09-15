@@ -1,5 +1,6 @@
 id: B-111
 agent: a-26a2b46d7750d590
-action: beat
+action: handoff
 lease_until: 2026-09-15T04:05:43Z
 attempt: 3
+branch: agent/B-111/a-26a2b46d7750d590
