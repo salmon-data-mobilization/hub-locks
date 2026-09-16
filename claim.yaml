@@ -1,5 +1,6 @@
 id: B-150
 agent: a-8e439a1f641ee603
-action: beat
+action: handoff
 lease_until: 2026-09-16T07:40:41Z
 attempt: 2
+branch: agent/B-150/a-8e439a1f641ee603
