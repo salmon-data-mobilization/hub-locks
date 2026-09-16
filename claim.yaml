@@ -1,5 +1,6 @@
 id: B-145
 agent: a-cbde7679ed732a03
-action: beat
+action: handoff
 lease_until: 2026-09-16T17:25:46Z
 attempt: 2
+branch: agent/B-145/a-cbde7679ed732a03
