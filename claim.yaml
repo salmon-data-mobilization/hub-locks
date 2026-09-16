@@ -1,5 +1,6 @@
 id: B-173
 agent: a-b833ceac01532849
-action: beat
+action: handoff
 lease_until: 2026-09-16T07:21:52Z
 attempt: 4
+branch: agent/B-173/a-b833ceac01532849
