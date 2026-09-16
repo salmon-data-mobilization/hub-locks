@@ -1,5 +1,6 @@
 id: B-125
 agent: a-55d7166618d08fa7
-action: beat
+action: handoff
 lease_until: 2026-09-16T07:42:00Z
 attempt: 2
+branch: agent/B-125/a-55d7166618d08fa7
