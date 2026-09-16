@@ -1,5 +1,6 @@
 id: B-165
 agent: a-aab35c8ace1a1bb5
-action: beat
+action: handoff
 lease_until: 2026-09-16T07:57:39Z
 attempt: 5
+branch: agent/B-165/a-aab35c8ace1a1bb5
