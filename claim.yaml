@@ -1,5 +1,6 @@
 id: B-142
 agent: a-f67cebda32d47c99
-action: beat
+action: handoff
 lease_until: 2026-09-23T18:51:37Z
 attempt: 2
+branch: agent/B-142/a-f67cebda32d47c99
