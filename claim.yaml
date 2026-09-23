@@ -1,5 +1,6 @@
 id: B-198
 agent: a-84850a1d8cc5f0af
-action: beat
+action: handoff
 lease_until: 2026-09-23T18:43:15Z
 attempt: 2
+branch: agent/B-198/a-84850a1d8cc5f0af
