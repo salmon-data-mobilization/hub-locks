@@ -1,5 +1,6 @@
 id: B-175
 agent: a-29210c88e18fcbd3
-action: beat
+action: handoff
 lease_until: 2026-09-23T18:49:52Z
 attempt: 2
+branch: agent/B-175/a-29210c88e18fcbd3
