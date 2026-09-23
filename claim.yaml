@@ -1,5 +1,6 @@
 id: B-3
 agent: a-b14a5733e191f2cc
-action: claim
+action: handoff
 lease_until: 2026-09-23T18:33:47Z
 attempt: 1
+branch: agent/B-3/a-b14a5733e191f2cc
