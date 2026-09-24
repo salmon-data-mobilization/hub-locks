@@ -1,5 +1,6 @@
 id: B-241
 agent: a-e83fd5e537e241e8
-action: claim
+action: handoff
 lease_until: 2026-09-24T22:47:33Z
 attempt: 1
+branch: agent/B-241/a-e83fd5e537e241e8
