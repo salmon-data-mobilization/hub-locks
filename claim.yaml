@@ -1,5 +1,6 @@
 id: B-55
 agent: a-b131705f5a01b685
-action: beat
+action: handoff
 lease_until: 2026-09-24T17:31:09Z
 attempt: 2
+branch: agent/B-55/a-b131705f5a01b685
