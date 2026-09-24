@@ -1,5 +1,6 @@
 id: B-179
 agent: a-dfa174beb5bb9dae
-action: beat
+action: handoff
 lease_until: 2026-09-24T17:17:02Z
 attempt: 2
+branch: agent/B-179/a-dfa174beb5bb9dae
