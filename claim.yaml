@@ -1,5 +1,6 @@
 id: B-151
 agent: a-894448f57ef60de6
-action: beat
+action: handoff
 lease_until: 2026-09-24T17:29:56Z
 attempt: 2
+branch: agent/B-151/a-894448f57ef60de6
