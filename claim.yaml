@@ -1,5 +1,6 @@
 id: B-187
 agent: a-cdac1171a618da39
-action: beat
+action: handoff
 lease_until: 2026-09-24T21:39:08Z
 attempt: 4
+branch: agent/B-187/a-cdac1171a618da39
