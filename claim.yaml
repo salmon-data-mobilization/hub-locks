@@ -1,5 +1,6 @@
 id: B-242
 agent: a-419bb65f60c5c2d1
-action: claim
+action: handoff
 lease_until: 2026-09-24T22:47:44Z
 attempt: 1
+branch: agent/B-242/a-419bb65f60c5c2d1
