@@ -1,5 +1,6 @@
 id: B-233
 agent: a-7b5b1c797545646b
-action: beat
+action: handoff
 lease_until: 2026-09-24T23:40:57Z
 attempt: 2
+branch: agent/B-233/a-7b5b1c797545646b
