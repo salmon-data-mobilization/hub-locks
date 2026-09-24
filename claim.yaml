@@ -1,5 +1,6 @@
 id: B-53
 agent: a-4f97f46cba9683d9
-action: beat
+action: handoff
 lease_until: 2026-09-24T17:12:46Z
 attempt: 2
+branch: agent/B-53/a-4f97f46cba9683d9
