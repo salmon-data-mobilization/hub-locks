@@ -1,5 +1,6 @@
 id: B-234
 agent: a-ef918cfca1bb5f97
-action: beat
+action: release
 lease_until: 2026-09-25T19:32:18Z
 attempt: 4
+reason: worker stopped at the account spend limit before pushing anything; released by the orchestrator so the item is claimable again
