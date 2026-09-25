@@ -1,5 +1,6 @@
 id: B-166
 agent: a-2b7ee15c7b2ae119
-action: claim
+action: handoff
 lease_until: 2026-09-25T15:33:55Z
 attempt: 1
+branch: agent/B-166/a-2b7ee15c7b2ae119
