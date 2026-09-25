@@ -1,5 +1,6 @@
 id: B-215
 agent: a-5ecd33884c1d582b
-action: claim
+action: handoff
 lease_until: 2026-09-25T10:01:17Z
 attempt: 1
+branch: agent/B-215/a-5ecd33884c1d582b
