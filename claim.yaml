@@ -1,5 +1,6 @@
 id: B-189
 agent: a-870f74a3c2446b4d
-action: claim
+action: handoff
 lease_until: 2026-09-25T13:39:37Z
 attempt: 1
+branch: agent/B-189/a-870f74a3c2446b4d
