@@ -1,5 +1,6 @@
 id: B-219
 agent: a-a6a2afd1756c5846
-action: claim
+action: handoff
 lease_until: 2026-09-25T08:58:17Z
 attempt: 1
+branch: agent/B-219/a-a6a2afd1756c5846
