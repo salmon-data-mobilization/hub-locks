@@ -1,5 +1,5 @@
 id: B-370
 agent: a-b23fd0d2329065b3
-action: claim
-lease_until: 2026-09-26T00:15:06Z
-attempt: 1
+action: beat
+lease_until: 2026-09-26T00:45:22Z
+attempt: 2
