@@ -1,5 +1,6 @@
 id: B-388
 agent: a-d584fa4d86e4ea2d
-action: claim
+action: handoff
 lease_until: 2026-09-26T02:29:21Z
 attempt: 1
+branch: agent/B-388/a-d584fa4d86e4ea2d
