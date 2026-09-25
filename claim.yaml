@@ -1,5 +1,6 @@
 id: B-56
 agent: a-1b78ba418bed2c69
-action: beat
+action: handoff
 lease_until: 2026-09-25T08:51:51Z
 attempt: 3
+branch: agent/B-56/a-1b78ba418bed2c69
