@@ -1,5 +1,6 @@
 id: B-236
 agent: a-2861a5985be47f25
-action: claim
+action: handoff
 lease_until: 2026-09-25T17:49:07Z
 attempt: 1
+branch: agent/B-236/a-2861a5985be47f25
