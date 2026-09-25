@@ -1,5 +1,6 @@
 id: B-234
 agent: a-4abcd6eac4d10cac
-action: claim
+action: handoff
 lease_until: 2026-09-25T19:54:49Z
 attempt: 1
+branch: agent/B-234/a-4abcd6eac4d10cac
