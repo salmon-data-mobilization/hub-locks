@@ -1,5 +1,6 @@
 id: B-188
 agent: a-ea1fe560b694608f
-action: beat
+action: handoff
 lease_until: 2026-09-25T07:47:52Z
 attempt: 2
+branch: agent/B-188/a-ea1fe560b694608f
