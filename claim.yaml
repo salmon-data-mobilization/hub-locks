@@ -1,5 +1,6 @@
 id: B-127
 agent: a-7ebad96ec86a8d88
-action: beat
+action: handoff
 lease_until: 2026-09-26T03:15:54Z
 attempt: 2
+branch: agent/B-127/a-7ebad96ec86a8d88
