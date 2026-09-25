@@ -1,5 +1,6 @@
 id: B-171
 agent: a-787dd83f135e45ec
-action: beat
+action: handoff
 lease_until: 2026-09-25T13:52:29Z
 attempt: 2
+branch: agent/B-171/a-787dd83f135e45ec
