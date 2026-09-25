@@ -1,5 +1,6 @@
 id: B-113
 agent: a-aa45858e460f77c9
-action: beat
+action: handoff
 lease_until: 2026-09-26T01:36:06Z
 attempt: 2
+branch: agent/B-113/a-aa45858e460f77c9
