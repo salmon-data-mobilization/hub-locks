@@ -1,5 +1,6 @@
 id: B-141
 agent: a-78f2c01bdc356852
-action: claim
+action: handoff
 lease_until: 2026-09-25T10:44:52Z
 attempt: 1
+branch: agent/B-141/a-78f2c01bdc356852
