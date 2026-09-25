@@ -1,5 +1,6 @@
 id: B-202
 agent: a-bc1c08826c729187
-action: beat
+action: handoff
 lease_until: 2026-09-25T07:56:15Z
 attempt: 3
+branch: agent/B-202/a-bc1c08826c729187
