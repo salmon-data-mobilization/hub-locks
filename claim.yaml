@@ -1,5 +1,6 @@
 id: B-131
 agent: a-81822fa9c27ce3f7
-action: claim
+action: handoff
 lease_until: 2026-09-25T15:19:07Z
 attempt: 1
+branch: agent/B-131/a-81822fa9c27ce3f7
