@@ -1,5 +1,6 @@
 id: B-378
 agent: a-f7f2a80cc31222b9
-action: beat
+action: handoff
 lease_until: 2026-09-26T05:14:36Z
 attempt: 3
+branch: agent/B-378/a-f7f2a80cc31222b9
