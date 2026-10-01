@@ -1,5 +1,6 @@
 id: B-256
 agent: a-6e8d8b1dfb43a0d4
-action: claim
+action: handoff
 lease_until: 2026-10-01T08:51:44Z
 attempt: 1
+branch: agent/B-256/a-6e8d8b1dfb43a0d4
