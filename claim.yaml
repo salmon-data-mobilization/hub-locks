@@ -1,5 +1,6 @@
 id: B-44
-agent: a-71a6d7c9eefb16bc
-action: beat
+agent: a-c1bbb42efa975289
+action: release
 lease_until: 2026-09-11T10:42:38Z
 attempt: 6
+reason: lease expired at 2026-09-11T10:42:38Z, reconciled after the 60 minute grace
