@@ -1,5 +1,6 @@
 id: B-238
 agent: a-16638a45c615a2f8
-action: beat
+action: handoff
 lease_until: 2026-10-01T12:38:52Z
 attempt: 3
+branch: agent/B-238/a-16638a45c615a2f8
