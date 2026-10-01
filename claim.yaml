@@ -1,5 +1,6 @@
 id: B-338
 agent: a-8b23709cce768317
-action: claim
+action: handoff
 lease_until: 2026-10-01T10:00:11Z
 attempt: 1
+branch: agent/B-338/a-8b23709cce768317
