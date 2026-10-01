@@ -1,5 +1,6 @@
 id: B-130
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-01T10:29:06Z
 attempt: 1
+branch: agent/B-130/a-16638a45c615a2f8
