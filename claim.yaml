@@ -1,5 +1,6 @@
 id: B-310
 agent: a-6e8d8b1dfb43a0d4
-action: claim
+action: handoff
 lease_until: 2026-10-01T09:43:30Z
 attempt: 1
+branch: agent/B-310/a-6e8d8b1dfb43a0d4
