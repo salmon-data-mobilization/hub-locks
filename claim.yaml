@@ -1,5 +1,6 @@
 id: B-147
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-01T11:05:20Z
 attempt: 1
+branch: agent/B-147/a-16638a45c615a2f8
