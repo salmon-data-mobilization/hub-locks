@@ -1,5 +1,5 @@
 id: B-238
 agent: a-16638a45c615a2f8
-action: claim
-lease_until: 2026-10-01T11:22:46Z
-attempt: 1
+action: beat
+lease_until: 2026-10-01T12:00:44Z
+attempt: 2
