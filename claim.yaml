@@ -1,5 +1,6 @@
 id: B-268
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-01T08:30:55Z
 attempt: 1
+branch: agent/B-268/a-16638a45c615a2f8
