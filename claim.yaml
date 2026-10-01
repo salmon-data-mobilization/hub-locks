@@ -1,5 +1,6 @@
 id: B-349
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-02T00:43:09Z
 attempt: 1
+branch: agent/B-349/a-16638a45c615a2f8
