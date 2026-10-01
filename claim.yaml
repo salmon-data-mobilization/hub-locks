@@ -1,5 +1,6 @@
 id: B-340
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-02T01:42:45Z
 attempt: 1
+branch: agent/B-340/a-16638a45c615a2f8
