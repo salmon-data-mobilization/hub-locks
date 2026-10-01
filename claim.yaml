@@ -1,5 +1,6 @@
 id: B-342
 agent: a-6e8d8b1dfb43a0d4
-action: claim
+action: handoff
 lease_until: 2026-10-02T01:10:10Z
 attempt: 1
+branch: agent/B-342/a-6e8d8b1dfb43a0d4
