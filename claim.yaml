@@ -1,5 +1,6 @@
 id: B-343
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-02T01:09:26Z
 attempt: 1
+branch: agent/B-343/a-16638a45c615a2f8
