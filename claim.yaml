@@ -1,5 +1,6 @@
 id: B-353
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-01T23:25:43Z
 attempt: 1
+branch: agent/B-353/a-16638a45c615a2f8
