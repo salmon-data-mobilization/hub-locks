@@ -1,5 +1,6 @@
 id: B-394
 agent: a-c1bbb42efa975289
-action: claim
+action: handoff
 lease_until: 2026-10-01T09:54:40Z
 attempt: 1
+branch: agent/B-394/a-c1bbb42efa975289
