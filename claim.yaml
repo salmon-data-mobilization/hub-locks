@@ -1,5 +1,6 @@
 id: B-261
 agent: a-8b23709cce768317
-action: claim
+action: handoff
 lease_until: 2026-10-01T09:21:42Z
 attempt: 1
+branch: agent/B-261/a-8b23709cce768317
