@@ -1,5 +1,6 @@
 id: B-345
 agent: a-b2d219ef68181193
-action: claim
+action: handoff
 lease_until: 2026-10-02T03:35:20Z
 attempt: 1
+branch: agent/B-345/a-b2d219ef68181193
