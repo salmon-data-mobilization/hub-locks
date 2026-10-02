@@ -1,5 +1,5 @@
 id: B-223
 agent: a-6e8d8b1dfb43a0d4
-action: claim
-lease_until: 2026-10-02T02:38:40Z
-attempt: 1
+action: beat
+lease_until: 2026-10-02T05:25:03Z
+attempt: 2
