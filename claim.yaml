@@ -1,5 +1,5 @@
 id: B-350
 agent: a-16638a45c615a2f8
-action: claim
-lease_until: 2026-10-02T04:04:11Z
-attempt: 1
+action: beat
+lease_until: 2026-10-02T05:11:58Z
+attempt: 2
