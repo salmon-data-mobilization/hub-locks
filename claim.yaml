@@ -1,5 +1,6 @@
 id: B-402
 agent: a-16638a45c615a2f8
-action: claim
+action: handoff
 lease_until: 2026-10-03T04:09:10Z
 attempt: 1
+branch: agent/B-402/a-16638a45c615a2f8
