@@ -1,5 +1,6 @@
 id: B-421
 agent: a-c1bbb42efa975289
-action: claim
+action: handoff
 lease_until: 2026-10-04T03:28:53Z
 attempt: 1
+branch: agent/B-421/a-c1bbb42efa975289
