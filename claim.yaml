@@ -1,5 +1,6 @@
 id: B-223
 agent: a-c1bbb42efa975289
-action: reclaim
+action: handoff
 lease_until: 2026-10-05T01:39:52Z
 attempt: 3
+branch: agent/B-223/a-c1bbb42efa975289
