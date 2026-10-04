@@ -1,5 +1,5 @@
 id: B-223
-agent: a-6e8d8b1dfb43a0d4
-action: beat
-lease_until: 2026-10-02T05:25:03Z
-attempt: 2
+agent: a-c1bbb42efa975289
+action: reclaim
+lease_until: 2026-10-05T01:39:52Z
+attempt: 3
