@@ -1,5 +1,6 @@
 id: B-433
 agent: a-c1bbb42efa975289
-action: beat
+action: handoff
 lease_until: 2026-10-05T16:02:56Z
 attempt: 3
+branch: agent/B-433/a-c1bbb42efa975289
