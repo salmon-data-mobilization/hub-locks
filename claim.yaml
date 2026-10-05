@@ -1,5 +1,5 @@
 id: B-433
 agent: a-c1bbb42efa975289
-action: claim
-lease_until: 2026-10-05T14:06:50Z
-attempt: 1
+action: beat
+lease_until: 2026-10-05T15:02:27Z
+attempt: 2
