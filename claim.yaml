@@ -1,5 +1,6 @@
 id: B-230
 agent: a-c1bbb42efa975289
-action: claim
+action: handoff
 lease_until: 2026-10-05T11:52:58Z
 attempt: 1
+branch: agent/B-230/a-c1bbb42efa975289
