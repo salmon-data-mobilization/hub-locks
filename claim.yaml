@@ -1,5 +1,6 @@
 id: B-270
 agent: a-c1bbb42efa975289
-action: claim
+action: handoff
 lease_until: 2026-10-05T09:24:30Z
 attempt: 1
+branch: agent/B-270/a-c1bbb42efa975289
