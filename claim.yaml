@@ -1,5 +1,5 @@
 id: B-432
-agent: a-c1bbb42efa975289
-action: claim
-lease_until: 2026-10-06T19:55:43Z
-attempt: 1
+agent: a-11395cdb8864b5ec
+action: reclaim
+lease_until: 2026-10-08T04:26:06Z
+attempt: 2
