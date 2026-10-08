@@ -1,5 +1,5 @@
 id: B-350
-agent: a-16638a45c615a2f8
-action: beat
-lease_until: 2026-10-02T06:05:36Z
-attempt: 3
+agent: a-11395cdb8864b5ec
+action: reclaim
+lease_until: 2026-10-08T07:05:02Z
+attempt: 4
