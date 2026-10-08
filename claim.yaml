@@ -1,5 +1,6 @@
 id: B-432
 agent: a-11395cdb8864b5ec
-action: reclaim
+action: release
 lease_until: 2026-10-08T04:26:06Z
 attempt: 2
+reason: merged as 361437b (metasalmon #272)
