@@ -1,5 +1,6 @@
 id: B-337
 agent: a-11395cdb8864b5ec
-action: claim
+action: handoff
 lease_until: 2026-10-08T22:05:43Z
 attempt: 1
+branch: agent/B-337/a-11395cdb8864b5ec
