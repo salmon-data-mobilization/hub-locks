@@ -1,5 +1,6 @@
 id: B-425
 agent: a-11395cdb8864b5ec
-action: beat
+action: handoff
 lease_until: 2026-10-08T18:08:00Z
 attempt: 3
+branch: agent/B-425/a-11395cdb8864b5ec
