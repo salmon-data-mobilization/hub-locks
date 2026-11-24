@@ -1,5 +1,6 @@
 id: B-445
 agent: a-e234841f1e62f2e8
-action: claim
+action: handoff
 lease_until: 2026-11-24T16:40:43Z
 attempt: 1
+branch: agent/B-445/a-e234841f1e62f2e8
