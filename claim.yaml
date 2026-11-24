@@ -1,5 +1,6 @@
 id: B-329
 agent: a-e838de46b7890dcc
-action: beat
+action: handoff
 lease_until: 2026-11-24T16:36:20Z
 attempt: 4
+branch: agent/B-329/a-e838de46b7890dcc
